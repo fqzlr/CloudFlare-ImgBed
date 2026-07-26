@@ -164,4 +164,4 @@ Thank you to everyone who has contributed code, documentation, ideas, and feedba
 - **Desktop client**: [MarSeventh/satellite](https://github.com/MarSeventh/satellite)
 - **Upstream project**: [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image)
 
-CloudFlare ImgBed evolved from Telegraph-Image. Thanks to its original authors and contributors.
+CloudFlare ImgBed evolved from Telegraph-Image. Thanks to its original authors and contributors. 1
